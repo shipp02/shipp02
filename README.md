@@ -10,6 +10,7 @@
 - a beast of a [micromouse](https://en.wikipedia.org/wiki/Micromouse) robot
 ### 🤔 I’m looking for help with
 - Understanding VisualSLAM
+- DSP and Control Theory
 - Zephyr RTOS
 ### 💬 Ask me about
 - My obsession with Compilers, Operating Systems and Databases
